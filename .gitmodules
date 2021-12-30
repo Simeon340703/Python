@@ -1,0 +1,3 @@
+[submodule "code_snippets"]
+	path = code_snippets
+	url = https://github.com/CoreyMSchafer/code_snippets

@@ -1,3 +1,6 @@
 [submodule "code_snippets"]
 	path = code_snippets
 	url = https://github.com/CoreyMSchafer/code_snippets
+[submodule "matlab-with-python"]
+	path = matlab-with-python
+	url = https://github.com/hgorr/matlab-with-python
